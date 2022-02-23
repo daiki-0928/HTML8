@@ -28,7 +28,7 @@ main {
 }
 
 .box {
-  background-color: #ffd700;
+  background-color: #00e1ff;
   width: 30%;
   height: 200px;
   margin-right: 5%;
@@ -38,7 +38,7 @@ main {
 .box:first-child,
 .box:nth-child(5),
 .box:last-child {
-  background-color: #ff8c00;
+  background-color: #00ff0d;
 }
 
 .box:nth-child(3n) {
